@@ -21,7 +21,7 @@ project01-team01 부터 project01-team12까지 회고조별로 부여되는 저�
 - https://github.com/APP-iOS4/project01-team03
 - https://github.com/APP-iOS4/project01-team04
 
-프로젝트 저장소는 2024년 1월 30일 오후 11시 59분부터 아카이브 처리되어 잠길 예정입니다.
+위 프로젝트 저장소는 2024년 1월 30일 오후 11시 59분부터 아카이브 처리되어 잠길 예정입니다.
 
 아카이브 처리 이후에는 신규 코드의 commit, push, merge가 이루어지지 않습니다.
 
