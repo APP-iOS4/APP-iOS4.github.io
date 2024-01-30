@@ -1,6 +1,6 @@
 # iOS개발자 전유진 이력서
 
-|__궁금증 가득한 개발자__| <img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/145957641/c8121eb7-8793-459f-ab2f-9338020c4dae" alt = "UDI_memoji" align='right' width= 300px> |
+|__궁금증 가득한 개발자__| <img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/145957641/c8121eb7-8793-459f-ab2f-9338020c4dae" alt = "UDI_memoji" width= 300px> |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------:|
 
 ## Contact
