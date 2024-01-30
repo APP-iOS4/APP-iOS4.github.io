@@ -30,7 +30,7 @@
 <img src="https://github.com/APP-iOS4/UIKit-Prototype-LAB4/assets/101854288/fc832989-c506-4864-b004-e0027adad4d3" width="30%"></img>
 <img src="https://github.com/APP-iOS4/UIKit-Prototype-LAB4/assets/101854288/1984cec7-017a-45b1-9b1c-66c28542b785" width="30%"></img>
 <br><br>
-* **팀원 : iOS 개발 4명
+* **팀원 : iOS 개발 5명
 * **담당 역할: 각자 뷰 1개씩 개발
 
 
