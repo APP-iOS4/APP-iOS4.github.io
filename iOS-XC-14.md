@@ -7,8 +7,8 @@
 - e-Mail : wl00ie19@gmail.com
 
 ### Channel
-- Github : https://github.com/wl00ie19
-- Blog : https://archimelift.tistory.com
+- Github : [https://github.com/wl00ie19](https://github.com/wl00ie19)
+- Blog : [https://archimelift.tistory.com](https://archimelift.tistory.com)
 
 ### Introduce
 IT 기술과 정보 접근성, 유니버설 디자인과 UX 설계 및 앱 개발에 관심이 있고, 나이와 성별, 신체특성, 국적과 상관없이 누구나 쉽게 사용할 수 있는 앱을 만들고 싶다고 생각하여 iOS 앱 개발자의 길을 선택한 초보 개발자입니다. 이전에 참여했던 머신러닝 관련 프로젝트로 문제해결 능력을 키웠으며, 테킷 앱 스쿨 팀 프로젝트를 통하여 협업 능력을 키우고 있습니다.  
