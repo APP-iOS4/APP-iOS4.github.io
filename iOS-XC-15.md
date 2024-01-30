@@ -1,7 +1,8 @@
 # iOS개발자 전유진 이력서
 
-|__궁금증 가득한 개발자__| <img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/145957641/c8121eb7-8793-459f-ab2f-9338020c4dae" alt = "UDI_memoji" width= 300px> |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------:|
+<img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/145957641/c8121eb7-8793-459f-ab2f-9338020c4dae" alt ="UDI_memoji" width= auto>
+
+--- 
 
 ## Contact
 - 이름: 전유진(UDI)
@@ -11,7 +12,6 @@
 - 깃허브 : https://github.com/UDI94
 - 블로그 : https://tea94.tistory.com
   
-</br>
 
 ## Introduce
 
