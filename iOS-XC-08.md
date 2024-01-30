@@ -1,4 +1,4 @@
-# iOS개발자 심소영 이력서
+# iOS개발자 심소영 이력서👩🏻‍💻
 
 ## 안녕하세요. 심소영입니다.
 
@@ -7,7 +7,7 @@
 - 이메일 : simsy1024@gmail.com
 
 ### Channel
-- 깃허브 : https://github.com/simsoyung
+- 깃허브 [soyung](https://github.com/simsoyung)
 
 ### Introduce
 
