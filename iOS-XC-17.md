@@ -1,6 +1,6 @@
 # iOS 개발자 정재웅입니다!
 
-<img src="https://avatars.githubusercontent.com/u/76551806?s=400&u=39c45c52cac300d5fce2bd866bdfa4d250ed4dba&v=4" align='right' width=250 height=250>
+<img src="https://avatars.githubusercontent.com/u/76551806?s=400&u=39c45c52cac300d5fce2bd866bdfa4d250ed4dba&v=4" width=100 height=100>
 
 ### 안녕하세요. 호기심이 많은 개발자 정재웅입니다!
 
@@ -15,9 +15,11 @@
 </br>
 
 ## Introduce
-스스로 필요한 걸 직접 만드는걸 좋아하는 개발자입니다.
-필요로 하는 것을 찾다보니 이젠 남들에게 필요한 것을 만들어주고 싶은 개발자입니다.
-모두에게 필요한 것을 만들어주고자 끊임없이 배우고 어제보다 더 나은 내일을 위해 계속 노력하고 있는 개발자입니다.
+저는 스스로 필요한 것을 직접 만드는 것을 좋아하는 개발자입니다.
+
+이제는 남들에게 필요한 것을 만들어주고 싶은 마음이 생겨서 모두에게 필요한 솔루션을 제공하고자 하는 개발자입니다.
+
+끊임없이 배우며 어제보다 더 나은 내일을 만들기 위해 노력하고 있는 개발자입니다.
 
 ## Education & Career
 
