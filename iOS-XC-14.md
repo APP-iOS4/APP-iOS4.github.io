@@ -26,7 +26,7 @@ IT 기술과 정보 접근성, 유니버설 디자인과 UX 설계 및 앱 개�
 ### Project
 **Swift**<br>
 Swift View<br>
-https://github.com/APP-iOS4/UIKit-Prototype-LAB4
+[https://github.com/APP-iOS4/UIKit-Prototype-LAB4](https://github.com/APP-iOS4/UIKit-Prototype-LAB4)
 - 기간 : 2024.1.(3일)
 - 작품의 시리즈를 따로 검색할 필요 없이 앱 내의 검색 기능을 통해 시리즈 정보를 바로 제공해주고, 보다 만 작품에 빠르게 접근할 수 있는 OTT 앱 프로토타입
 - 작품의 시리즈를 따로 검색할 필요 없이 시리즈 정보를 바로 제공해주는 OTT 서비스 앱을 목표로 하고 개발
