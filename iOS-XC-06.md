@@ -37,13 +37,13 @@
     사용자 주변의 간편결제 사용 가능 매장을 지도로 보여주는 앱
 
     <span style="display: inline-block; margin-left: 10px;"></span>
-[<img src="https://github.com/iosHumhae/iosHumhae/assets/104145414/5ea38095-56f3-4700-8f2b-060f8cf7febf" width="22%"/>](https://github.com/iosHumhae)
+<img src="https://github.com/iosHumhae/iosHumhae/assets/104145414/5ea38095-56f3-4700-8f2b-060f8cf7febf" width="22%"/>
     <span style="display: inline-block; margin-left: 10px;"></span>
-[<img src="https://github.com/iosHumhae/iosHumhae/assets/104145414/5778efcb-c436-4ced-9acc-32c085749e37" width="22%"/>](https://github.com/iosHumhae)
+<img src="https://github.com/iosHumhae/iosHumhae/assets/104145414/5778efcb-c436-4ced-9acc-32c085749e37" width="22%"/>
     <span style="display: inline-block; margin-left: 10px;"></span>
-[<img src="https://github.com/iosHumhae/iosHumhae/assets/104145414/e395523e-b70e-4d40-9a9d-a5ce5d7137fd" width="22%"/>](https://github.com/iosHumhae)
+<img src="https://github.com/iosHumhae/iosHumhae/assets/104145414/e395523e-b70e-4d40-9a9d-a5ce5d7137fd" width="22%"/>
     <span style="display: inline-block; margin-left: 10px;"></span>
-[<img src="https://github.com/iosHumhae/iosHumhae/assets/104145414/df4c8bb4-2e28-4f1d-820b-a04d1078c8ca" width="22%"/>](https://github.com/iosHumhae)
+<img src="https://github.com/iosHumhae/iosHumhae/assets/104145414/df4c8bb4-2e28-4f1d-820b-a04d1078c8ca" width="22%"/>
 
     - 사용 기술 및 라이브러리
         - 디자인패턴 : MVVM, Combine
