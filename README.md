@@ -14,6 +14,8 @@
 
 [🚗 Visit 일련 번호 확인 시트](https://docs.google.com/spreadsheets/d/1Of3xDkFY1DFipEDp25xhJxWN4zZxvTLX6kjrClagIPw/edit?usp=sharing)
 
+- 프로젝트 일련번호 탭을 확인하셔서 두자리만 파일명에 활용해주세요
+
 웹브라우저와 앱에서 접근할 경우 필요한 URL은 위 예시를 참고해주세요.
 
 GitHub Pages 웹사이트의 main 브랜치 배포적용은 시간당 한계가 정해져있기 때문에, markdown 파일을 main에 병합/push하는 작업은 신중하게 최소 횟수로 진행해주시길 부탁드립니다.
