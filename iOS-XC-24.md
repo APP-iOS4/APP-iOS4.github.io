@@ -1,6 +1,6 @@
 # iOS개발자 홍승표 이력서
 
-<img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/94823065/1f4dd6ec-e245-4811-9c8d-48765c2b4459" align='right'>
+
 
 ### 안녕하세요. iOS 개발자 홍승표입니다.
 
@@ -36,7 +36,7 @@ __멋쟁이 사자처럼  iOS 앱개발 과정 수료__
 - swift문법 및 SwiftUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다.
   
 ## Project
-- 맛집 평가 공유 App ["맛집에서 맛나"](https://github.com/nxtlevYea](https://github.com/APP-iOS4/UIKit-Prototype-LAB2)) 앱 개발 (2024)</br>
+- 맛집 평가 공유 App ["맛집에서 맛나"](https://github.com/nxtlevYea](https://github.com/APP-iOS4/UIKit-Prototype-LAB2)) 프로토타입 (2024)</br>
   사용 언어/기술: UIKit, Figma 
 <img src="https://github.com/APP-iOS4/UIKit-Prototype-LAB2/assets/53979393/1f687ebe-0ee3-43dd-a3ac-3a09e7c9ba8d" width="200px" />
 <img src="https://github.com/APP-iOS4/UIKit-Prototype-LAB2/assets/53979393/adf423c4-0196-416d-ad9e-1899ae68a370" width="200px" />
