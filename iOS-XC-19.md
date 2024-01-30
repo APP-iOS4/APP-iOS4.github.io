@@ -1,44 +1,126 @@
-# iOS개발자 김아무개 이력서 (예시)
+# iOS개발자 최주리 이력서
 
-## 안녕하세요. 코딩 전사 김아무개입니다.
+## introduce
+
+> **핵심을 파악할 줄 아는 개발자**
+- 함께 프로젝트를 진행했던 팀원들에게 들은 말입니다.
+- 우선순위를 제시하여 주어진 기간 안에 프로젝트를 마칠 수 있도록 하였습니다.
+
+<br>
+
 
 ### Contact
-- 이름: 김아무개
-- 이메일 : iamsuperiosappdeveloper@example.com
+- 이름: 최주리
+- 이메일 : jrjr4426@gmail.com
 
 ### Channel
-- 깃허브 : https://github.com/APP-iOS4
-- 블로그 : https://APP-iOS4.github.io
+- 깃허브 : https://github.com/juri123123
 
-### Introduce
 
-다년간의 마케터 근무한 경험을 바탕으로 남녀노소를 불문하고 의사소통하는것을 어려워 하지 않으며, 여러 의견을 수렴하여 모두가 수긍할 수 있는 방향을 제시할 수 있습니다. 개발자가 편한 개발이 아닌 사용자를 위한 개발을 할 자신이 있습니다. 
+<br>
 
-### Education &  Career
+## tech
 
-멋쟁이 사자처럼  iOS 앱개발 과정 수료
-- 2023.05 ~ 2023.10
-- swift문법 및 SwiftUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다.
+|||
+| :-: | - |
+| UI | UIKit / SwiftUI |  
+| Network | Alamofire |
+| Database | UserDefaults / CoreData |
+| Architecture | MVC / MVVM  |  
+| Co-Work | Github | 
+| Design | Figma | 
 
-- 좋은 대학교 국제관계 졸업
-- 일본 ABC대학교 교환학생
--  NYU advanced language course 수료
--  뉴욕 ‘blahblah’ 패션 브랜드 패션 마케팅 인턴
-- A사 마케팅 근무
-- B사 서비스 운영
+<br>
 
-### Project
-- Fantastic App** (2022): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
-- amaizing App** (2023): 앱 개발. 사용 언어/기술: UIKit, Firebase
 
-###  Skill
-- SwiftUI : 화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다. 
-- UIKit : 스토리보드, 코드를 통해 개발 가능합니다.
-- Swift : Swift의 기본 문법을 이해하고 사용합니다
-- MVC/MVVM : MVC, MVVM 패턴을 활용하여 앱을 만들어본 경험이 있습니다.
-- Framework And Library : 다양한 프레임워크와 라이브러리를 이해하고 활용 할 수 있습니다. Combine, NaverMap, FireBase, Firestore, CoreData, Kingfisher 등 활용해본 경험이 있습니다.
-- Git&Github : 깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.
-- notion&lack : 협업 툴을 활용하여 의사소통 가능합니다.
+## Education
 
-### 기타 수상 내역
-- 멋쟁이사자 해커톤 대상 (2023)
+멋쟁이 사자처럼  iOS 앱개발 과정 진행 중
+- 2023.11 ~
+
+
+## project
+
+> **펫션쇼 : UIKit을 이용한 반려동물 쇼핑몰 프로토타이핑**  
+2024.01 (일주일)
+
+참여 인원
+- iOS 5명
+
+<br>
+
+개발 환경
+- UIKit
+
+
+<br>
+
+링크 (깃허브)
+- https://github.com/APP-iOS4/UIKit-Prototype-LAB3
+
+<br><br>
+> **NoteFood : 섭취한 영양성분을 기록하는 앱**  
+2023.06 ~
+
+참여 인원
+- iOS 5명
+
+<br>
+
+개발 환경
+- SwiftUI
+
+<br>
+
+맡은 역할
+- Core Data를 이용하여 사용자 및 식품 영양성분 CRUD
+- ViewBuilder를 이용한 커스텀 캘린더 구현
+
+  
+
+<!-- ### Project
+- 
+펫션쇼 : UIKit을 이용한 반려동물 쇼핑몰 프로토타이핑
+<img width="405" alt="스크린샷 2024-01-30 오후 2 37 58" src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/80569323/bbb9d661-0723-4e44-a4db-dddf3c36fa19">
+
+
+NoteFood : 섭취한 영양성분을 기록하는 앱
+<img width="652" alt="스크린샷 2024-01-30 오후 2 34 26" src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/80569323/e5357d01-e1f7-4031-9d29-96ea8d3ef102">
+- 개인프로젝트
+- 기간 : 2023.06 ~
+- 개발 환경 : SwiftUI
+- 맡은 역할 : Core Data를 이용하여 사용자 및 식품 영양성분 CRUD, ViewBuilder를 이용한 커스텀 캘린더 구현
+
+
+
+DailyNote : 앱스토어에 있는 DailyNote 앱 UI 클론
+<img width="416" alt="스크린샷 2024-01-30 오후 2 33 14" src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/80569323/baf79152-7cf0-43b2-863c-496c81d6a476">
+- 개인 프로젝트
+- 기간 : 2023.04 (1개월)
+- 개발 환경 : SwiftUI
+
+
+m2Dm : 인테리어 쇼핑몰 웹사이트
+- 참여 인원 : BE 4명
+- 기간 : 2023.03 ~ 2023.06 (4개월)
+- 개발 환경 : Java, Spring Boot, Oracle
+- 맡은 역할 : DB 설계, 상품 CRUD, 기간, 최소인원 등을 고려한 공동구매 기능
+- 2023.12 ~ 리팩토링 진행 중 : 웹사이트의 기능을 추가, 수정하고 프론트로 iOS 추가 개발
+
+
+책무비 : 인공지능을 이용한 책 추천 웹사이트
+- 참여 인원 : BE 2명, FE 2명, 디자이너 1명, AI 2명
+- 기간 : 2022.05 ~ 2022.08 (4개월)
+- 개발 환경 : Java, Spring Boot, AWS
+- 맡은 역할 : 
+-->
+
+
+## certificate
+- 정보처리기사 (2023.06)
+- 토익스피킹 AL (2023.10)
+
+
+## 동아리 및 활동
+- 교내 AI 동아리 DALC 1,2,3기 활동 (2021~2022)
+- ICT 멘토링 한이음 수료 (2021,2022)
