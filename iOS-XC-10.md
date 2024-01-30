@@ -1,10 +1,10 @@
-# iOS개발자 김아무개 이력서 (예시)
+# iOS개발자 유승재 이력서 (예시)
 
-## 안녕하세요. 코딩 전사 김아무개입니다.
+## 안녕하세요. 코딩 매니아 유승재입니다.
 
 ### Contact
-- 이름: 김아무개
-- 이메일 : iamsuperiosappdeveloper@example.com
+- 이름: 유승재
+- 이메일 : yu.seungjae@gmail.com
 
 ### Channel
 - 깃허브 : https://github.com/APP-iOS4
