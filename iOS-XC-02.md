@@ -5,22 +5,22 @@
 ### Contact
 - 이름: 강태훈
 - 이메일 : kywlk0709@naver.com
-
+<br>
 
 ### Channel
 - 깃허브 : 🏟️[@Taehooony](https://github.com/Taehooony)
-
+<br>
 
 ### Introduce
 
  왕초보 입니다.. 노력중..
- 
+ <br>
 
 ### Education &  Career
 
 멋쟁이 사자처럼  iOS 앱개발 과정 진행중..
-- 2023.11 ~ 2023.05
-
+- 2023.11 ~ 2024.05
+<br>
 
 
 
