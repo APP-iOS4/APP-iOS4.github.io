@@ -6,18 +6,23 @@
 - 이름: 강태훈
 - 이메일 : kywlk0709@naver.com
 
+
 ### Channel
 - 깃허브 : https://github.com/Taehooony
 
 
+
 ### Introduce
 
- 개발자가 되기 위해 노력 중.
+ 왕초보 입니다.. 노력중..
+ 
 
 ### Education &  Career
 
-멋쟁이 사자처럼  iOS 앱개발 과정 수료
+멋쟁이 사자처럼  iOS 앱개발 과정 진행중..
 - 2023.11 ~ 2023.05
+
+
 
 
 ### Project

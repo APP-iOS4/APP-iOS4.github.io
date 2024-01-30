@@ -7,7 +7,7 @@
 - 이메일 : simsy1024@gmail.com
 
 ### Channel
-- 깃허브 [soyung](https://github.com/simsoyung)
+- 깃허브 [🍀soyung🍀](https://github.com/simsoyung)
 
 ### Introduce
 
@@ -15,9 +15,14 @@
 
 ### Education &  Career
 
-멋쟁이 사자처럼  iOS 앱개발 과정 수료
-- 2023.11 ~ 2024.05
-- swift문법 및 SwiftUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다.
+- 멋쟁이 사자처럼  iOS 앱개발 과정 수료
+  - 2023.11 ~ 2024.05
+  - swift문법 및 SwiftUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다.
+  
+- 앨런 Swift 문법 마스터 스쿨(온라인BootCamp)
+  - 2024.01 ~ 2024.03
+  - swift문법 및 UIkit을 배우고 익힐 수 있었습니다.
+
 
 ###  Skill
 - SwiftUI : 화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다. 
