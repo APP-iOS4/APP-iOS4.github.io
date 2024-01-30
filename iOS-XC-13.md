@@ -1,8 +1,8 @@
 # iOS개발자 이시형 이력서
 
-<img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/94823065/1f4dd6ec-e245-4811-9c8d-48765c2b4459" align='right' width="30">
-
 ### 안녕하세요. swift master 이시형입니다.
+
+<img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/94823065/1f4dd6ec-e245-4811-9c8d-48765c2b4459" width="100">
 
 ## Contact
 - 이름: 이시형
