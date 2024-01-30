@@ -24,6 +24,14 @@
 
 - 2024.01 미디어 컨텐츠 시리즈 쉽게 찾을 수 있는 OTT 앱 "SwiftView"프로토타입 제작
 
+  [<img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/101854288/f813755d-5d9b-40aa-b83a-b3c2829fecd3" width="30%"></img>](https://github.com/APP-iOS4/UIKit-Prototype-LAB4)
+
+```
+팀원: 4명
+역할: HomeViewController 개발
+사용 프레임워크: UIKit
+개발환경: xcode15, iOS17
+```
 ### Skill
 
 - UIKit: 스토리보드 및 코드로 앱 개발을 할 수 있습니다.
