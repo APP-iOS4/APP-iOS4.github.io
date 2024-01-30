@@ -21,7 +21,7 @@
 - Swift 기초 문법부터 UIKit, SwiftUI의 사용법, 앱 디자인 등 앱 개발의 전 과정을 배우고 있습니다.
 
 **Academical**
-- 2019.3. ~ 2023.8. B.Sc. in Industrial Engineering
+- 2019.3. ~ 2023.8. 🏙️🏙️대학교 산업공학과 학사졸업
 
 ### Project
 **Swift**<br>
