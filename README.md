@@ -12,7 +12,7 @@
 
 이 웹이트에 이력서 페이지를 추가하기 위해 개인별로 부여된 식별 Code에 따라 iOS-XC-(번호).md 파일을 만들어 이곳에 추가해주세요.
 
-[🚗 Visit 일련 번호 확인 시트](https://docs.google.com/spreadsheets/d/1Of3xDkFY1DFipEDp25xhJxWN4zZxvTLX6kjrClagIPw/edit?usp=sharing)
+[🚗 Visit 일련 번호 확인 시트](https://docs.google.com/spreadsheets/d/1eKDi3JUHcLt0vMVJxfvQyOvQYHH1JPAwL_xeIkOJSeQ/edit?usp=sharing)
 
 - 프로젝트 일련번호 탭을 확인하셔서 두자리 숫자만 파일명에 활용해주세요
 
