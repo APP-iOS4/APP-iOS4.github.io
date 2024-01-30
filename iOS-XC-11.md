@@ -1,44 +1,99 @@
-# iOS개발자 김아무개 이력서 (예시)
+# iOS개발자 유지호 이력서  
 
-## 안녕하세요. 코딩 전사 김아무개입니다.
+## 안녕하세요. 코딩 전사 유아무개입니다.
 
-### Contact
-- 이름: 김아무개
-- 이메일 : iamsuperiosappdeveloper@example.com
+## introduce
 
-### Channel
-- 깃허브 : https://github.com/APP-iOS4
-- 블로그 : https://APP-iOS4.github.io
+> **경험을 통한 성장을 추구합니다**
+- 음식점 추천 B2C 서비스 "푸이" iOS개발 담당, 120개 Feature 개발 경험
+- B2C 서비스 배포 및 유지보수 경험 1회, 개인 프로젝트 배포 경험 2회
 
-### Introduce
+> **팀원과 함께 프로젝트의 방향성을 세우는 것을 추구합니다**
+- Back-end 개발자와 주도적인 api 설계 경험
+- 디자이너와 프로젝트의 다양한 스펙 기획 경험
 
-다년간의 마케터 근무한 경험을 바탕으로 남녀노소를 불문하고 의사소통하는것을 어려워 하지 않으며, 여러 의견을 수렴하여 모두가 수긍할 수 있는 방향을 제시할 수 있습니다. 개발자가 편한 개발이 아닌 사용자를 위한 개발을 할 자신이 있습니다. 
+<br>
 
-### Education &  Career
+## tech
 
-멋쟁이 사자처럼  iOS 앱개발 과정 수료
-- 2023.05 ~ 2023.10
-- swift문법 및 SwiftUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다.
+UI: UIKit / SwiftUI / SnapKit  
+Network: URLSession / Alamofire / Moya  
+Database: UserDefaults / Realm  
+Architecture: MVC / MVVM / MVVM-C  
+Reactive: RxSwift / RxCocoa  
+DI: Swinject  
+Co-Work: Git-Flow / Jira  
+Design: Figma  
 
-- 좋은 대학교 국제관계 졸업
-- 일본 ABC대학교 교환학생
--  NYU advanced language course 수료
--  뉴욕 ‘blahblah’ 패션 브랜드 패션 마케팅 인턴
-- A사 마케팅 근무
-- B사 서비스 운영
+<br>
 
-### Project
-- Fantastic App** (2022): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
-- amaizing App** (2023): 앱 개발. 사용 언어/기술: UIKit, Firebase
+## project
 
-###  Skill
-- SwiftUI : 화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다. 
-- UIKit : 스토리보드, 코드를 통해 개발 가능합니다.
-- Swift : Swift의 기본 문법을 이해하고 사용합니다
-- MVC/MVVM : MVC, MVVM 패턴을 활용하여 앱을 만들어본 경험이 있습니다.
-- Framework And Library : 다양한 프레임워크와 라이브러리를 이해하고 활용 할 수 있습니다. Combine, NaverMap, FireBase, Firestore, CoreData, Kingfisher 등 활용해본 경험이 있습니다.
-- Git&Github : 깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.
-- notion&lack : 협업 툴을 활용하여 의사소통 가능합니다.
+> **입맛 MBTI 기반 음식점 기록 및 추천 서비스 “푸이”**  
+2022.04 ~ 2022.12
 
-### 기타 수상 내역
-- 멋쟁이사자 해커톤 대상 (2023)
+<br>
+
+```
+🍴 입맛의 MBTI인 “FooiyTi”를 기반으로 음식점을 기록하고, 자신의 입맛에 맞는 음식점을 추천해주는 서비스 입니다.
+살아가는데 있어 큰 행복을 차지하는 요소가 하루 한 끼라도 맛있는 음식을 먹는 것이었고, 이를 위해 서비스를 개발하게 되었습니다
+```
+<br>
+
+참여 인원
+- iOS 2명, AOS 1명, BackEnd 2명, Design 1명
+
+<br>
+
+개발 환경
+- 구조: UIKit + MVVM + Clean Architecture
+- 비동기: RxSwift
+- DI: Swinject
+- 라이브러리: KakaoSDK, NaverMaps, Firebase
+
+<br>
+
+담당 역할
+- 푸이 iOS 앱 개발 (기여도 50%)
+    - **온보딩:** 버전 체크 및 FCM토큰 갱신 페이지 개발
+    - **로그인/회원가입:** KakaoSDK 활용하여 개발
+    - **음식점 지도:** NaverMap을 활용한 음식점 조회 기능 개발
+    - **음식점 기록:** multiPart/form-Data를 활용한 ****음식 사진 업로드 기능 개발
+    - **내 정보:** CollectionView를 활용하여 게시한 음식 사진을 Instagram처럼 볼 수 있는 기능 개발
+
+<br>
+
+---
+
+> **로또 조회 및 판매점 조회 서비스 “로또의 민족”**  
+2022.02 ~ 2022.03
+
+<br>
+
+```
+주변 로또 판매점 조회, 로또 회차 조회, 로또 QR스캔 및 번호 생성이 가능한 로또 유틸리티 서비스로, 
+로또 판매점 검색과 당첨 번호 조회를 편하게 하기 위해 개발한 서비스 입니다.
+```
+
+<br>
+
+참여 인원: iOS 1명, AOS 1명
+
+개발 환경
+- 구조: UIKit + MVVM
+- 비동기: RxSwift
+- 라이브러리: KakaoSDK, NaverMaps
+
+<br>
+
+담당 역할
+- 로또의 민족 iOS 앱 개발 및 유지보수
+    - **주변 로또 판매점:** NaverMap을 활용하여 로또 판매점 조회 및 검색 기능 개발
+    - **로또 회차 정보:** Open API를 활용한 당첨번호 조회 기능 개발
+    - **로또 QR스캔:** AVKit을 활용한 QR 스캔 기능 개발
+    - **로또번호 랜덤생성:** CAScrollLayer를 활용하여 시각적 재미요소 개발
+
+<br>
+
+### 자격증 및 수상 내역
+- 정보처리기사 (2022.11)
