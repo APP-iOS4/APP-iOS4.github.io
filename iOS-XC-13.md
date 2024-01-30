@@ -1,48 +1,45 @@
-# iOS개발자 김아무개 이력서
+# iOS개발자 이시형 이력서
 
 <img src="https://github.com/APP-iOS4/APP-iOS4.github.io/assets/94823065/1f4dd6ec-e245-4811-9c8d-48765c2b4459" align='right'>
 
-### 안녕하세요. 코딩 전사 정재웅입니다.
+### 안녕하세요. 코딩 전사 이시형입니다.
 
 ## Contact
-- 이름: 김아무개
-- 이메일 : iamsuperiosappdeveloper@example.com
+- 이름: 이시형
+- 이메일 : hamburger@example.com
 
 ## Channel
-- 깃허브 : https://github.com/APP-iOS4
-- 블로그 : https://APP-iOS4.github.io
+- 깃허브 : https://github.com/poetic-form
   
 </br>
 
 ## Introduce
 
-다년간의 마케터 근무한 경험을 바탕으로 남녀노소를 불문하고 의사소통하는것을 어려워 하지 않으며, 여러 의견을 수렴하여 모두가 수긍할 수 있는 방향을 제시할 수 있습니다. 개발자가 편한 개발이 아닌 사용자를 위한 개발을 할 자신이 있습니다. 
+대학교 2학년 때 진로를 결정하다가 하고싶은 일을 하자는 생각에 소프트웨어학과 복수전공을 신청했습니다. 개발자에도 여러 분야가 있지만, 핸드폰을 보는 시간이 길기도 하고 애플의 충성스런 고객으로써 iOS 개발자로 진로를 결정하게 되었습니다. 하고자 하는건 끝을 봐야하는 성격입니다.
 
 ## Education & Career
 
-__멋쟁이 사자처럼  iOS 앱개발 과정 수료__
-- 2023.05 ~ 2023.10
-- swift문법 및 SwiftUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다.
+__ㅇㅇ 대학교 복수 전공 졸업__
+- 2017.03 ~ 2023.02
+- 교통시스템공학과, 소프트웨어학과 복수 전공 졸업
 
-- 좋은 대학교 국제관계 졸업
-- 일본 ABC대학교 교환학생
--  NYU advanced language course 수료
--  뉴욕 ‘blahblah’ 패션 브랜드 패션 마케팅 인턴
-- A사 마케팅 근무
-- B사 서비스 운영
+__ㅇㅇ 부트캠프 챌린지 과정 수료__
+- 2023.07 ~ 2023.08
+- 메모리 관리, git, 운영체제 등의 내용을 직접 구현해보는 실습을 통해 학습했습니다.
+
+__멋쟁이 사자처럼  iOS 앱개발 과정 수료__
+- 2023.11 ~
+- 동료들과 함께 계산기, 단위변환기 등 간단한 앱을 만들며 swift문법 및 UIKit 프레임워크를 학습했습니다.
 
 ## Project
-- Fantastic App** (2022): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
-- amaizing App** (2023): 앱 개발. 사용 언어/기술: UIKit, Firebase
+- PetshionShow** (2024): 프로토타입. 사용 언어/기술: UIKit
 
 ##  Skill
-- SwiftUI : 화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다. 
-- UIKit : 스토리보드, 코드를 통해 개발 가능합니다.
+- SwiftUI : 레이블, 버튼 등을 화면에 구현할 수 있습니다.
+- UIKit : 스토리보드, 코드를 통해 개발 가능합니다. tabbar, navigationbar 등을 사용해본 경험이 있습니다.
 - Swift : Swift의 기본 문법을 이해하고 사용합니다
 - MVC/MVVM : MVC, MVVM 패턴을 활용하여 앱을 만들어본 경험이 있습니다.
-- Framework And Library : 다양한 프레임워크와 라이브러리를 이해하고 활용 할 수 있습니다. Combine, NaverMap, FireBase, Firestore, CoreData, Kingfisher 등 활용해본 경험이 있습니다.
 - Git&Github : 깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.
-- notion&lack : 협업 툴을 활용하여 의사소통 가능합니다.
 
 ## 기타 수상 내역
-- 멋쟁이사자 해커톤 대상 (2023)
+
