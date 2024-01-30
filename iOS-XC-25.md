@@ -7,18 +7,18 @@
 - 이메일 : davinci1452@naver.com
 
 ### Channel
-- 깃허브 : https://github.com/APP-iOS4
+- 깃허브 : https://github.com/banhada
 
 
 ### Introduce
 
-
+하루하루 코드와 격투중인 골때리는 개발자 연습생입니다.
 
 ### Education
 
 멋쟁이 사자처럼  iOS 앱개발 과정 수료
-- 2023.11 ~ 2024.05
-- swift문법 및 UIkit 배우고 팀원들과 협업하는 방법을 익혔습니다.
+- 2023.11 ~ 2024.05 (진행중)
+- swift문법 및 UIkit을 배우고 맘좋은 동료들을 만나 배우고 협업하는 방법을 익히는 중입니다.
 
 
 ###  Skill
