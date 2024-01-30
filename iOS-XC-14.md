@@ -36,7 +36,7 @@ https://github.com/APP-iOS4/UIKit-Prototype-LAB4
 플라워 프레임워크 기반 연합학습을 이용한 CNC 가공 불량 예측<br>
 CNC(Computer Numerical Control) Processing Defect Prediction using FLOWER-based Federated Learning
 - 기간: 2023.4. ~ 2023.11. (29주)
-- 지도교수: 이석룡 교수(한국외국어대학교 산업경영공학과)
+- 지도교수: 이◼️◼️ 교수(◼️◼️대학교 산업경영공학과)
 - CNC 장비를 이용한 부품 가공 공정에서의 센서 데이터를 이용한 불량 예측 과정에서 각 클라이언트의 데이터만으로 모델을 학습한 뒤 취합하는 방법인 연합학습을 적용한 연구
 - TensorFlow로 LSTM 및 GRU 모델 구현, Flower 프레임워크를 이용하여 연합학습 구축
 
