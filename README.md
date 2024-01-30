@@ -33,6 +33,11 @@ GitHub Pages 웹사이트의 main 브랜치 배포적용은 시간당 한계가 
 - 오픈소스 라이선스 : MIT, GPL 등
 - README.md 파일 정리 : ADS, 목표, 기능소개, 실행방법, 참여자 정보, 적용된 외부 라이브러리 정보 등
 
+
+-  파일 네이밍: [iOS_일련 번호]_[영문 이름] / 예시 -> iOS_007_Songwonjun
+
+[🚗 Visit 일련 번호 확인 시트](https://docs.google.com/spreadsheets/d/1Of3xDkFY1DFipEDp25xhJxWN4zZxvTLX6kjrClagIPw/edit?usp=sharing)
+
 project01-team01 부터 project01-team12까지 회고조별로 부여되는 저장소를 활용해주세요
 
 - https://github.com/APP-iOS4/project01-team01
