@@ -60,7 +60,7 @@ __중국어 어학연수 과정__
 
 
 ## Project
-- ![맛집에서 만나(프로토타입)](https://github.com/APP-iOS4/UIKit-Prototype-LAB2)
+- [맛집에서 만나(프로토타입)](https://github.com/APP-iOS4/UIKit-Prototype-LAB2)
 
 
 ##  Skill
