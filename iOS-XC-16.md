@@ -2,7 +2,7 @@
 
 
 ### Contact
-- 이름: 김아무개
+- 이름: 정운관
 - 이메일 : jkj8842@gmail.com
 
 ### Channel
@@ -31,10 +31,9 @@
 
 ### Project
 
--
-
 - 번아웃 극복 챌린지(Androin App)(2022)
-    - 사용언어/기술 : Android
+    - 학교 수업 개인 Project
+    - 사용언어/기술 : Android/FireBase
     - https://github.com/UnGwan/MP_Project
 
 - MatMat(protype App)(2024)
@@ -46,10 +45,8 @@
 - SwiftUI : 화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다. 
 - UIKit : 스토리보드, 코드를 통해 개발 가능합니다.
 - Swift : Swift의 기본 문법을 이해하고 사용합니다
-- MVC/MVVM : MVC, MVVM 패턴을 활용하여 앱을 만들어본 경험이 있습니다.
-- Framework And Library : 다양한 프레임워크와 라이브러리를 이해하고 활용 할 수 있습니다. Combine, NaverMap, FireBase, Firestore, CoreData, Kingfisher 등 활용해본 경험이 있습니다.
 - Git&Github : 깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.
 - notion&lack : 협업 툴을 활용하여 의사소통 가능합니다.
 
-### 기타 수상 내역
+
 
