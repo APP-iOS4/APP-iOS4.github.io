@@ -53,13 +53,12 @@
     - 업무 : 매장 관리, 발주 관리, 인적 관리
 
 ### Project
-- [Subway Kiosk](https://github.com/APP-iOS4/UIKit-Prototype-LAB1)** (2024): 앱 개발.   사용 언어: UIKit
+- [Subway Kiosk](https://github.com/APP-iOS4/UIKit-Prototype-LAB1) (2024): 앱 개발.   사용 언어: UIKit
 
 
 ###  Skill
-- UIKit : 스토리보드, 코드를 통해 개발 가능합니다.
+- UIKit : 스토리보드, 코드를 통해 화면 구현 가능합니다.
 - Swift : Swift의 기본 문법을 이해하고 사용합니다.
-- MVC : MVC 패턴을 활용하여 앱을 만들어본 경험이 있습니다.
 - Git&Github : 깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.
 - notion&slack : 협업 툴을 활용하여 의사소통 가능합니다.
 
