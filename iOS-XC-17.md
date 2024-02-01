@@ -9,10 +9,9 @@
 - 이메일 : acetate_aliens_0h@icloud.com
 
 ## Channel
-- 깃허브 : https://github.com/jjw8959
-- 블로그 : https://chokotingchock.tistory.com
-  
-</br>
+- 깃허브 : [https://github.com/jjw8959](https://github.com/jjw8959)
+- 블로그 : [https://chokotingchock.tistory.com](https://chokotingchock.tistory.com)
+
 
 ## Introduce
 저는 스스로 필요한 것을 직접 만드는 것을 좋아하는 개발자입니다.
@@ -22,14 +21,13 @@
 끊임없이 배우며 어제보다 더 나은 내일을 만들기 위해 노력하고 있는 개발자입니다.
 
 ## Education & Career
-
-- 강원대 컴퓨터정보통신공학 졸업(2023.02)
+    
+- 멋쟁이 사자처럼  iOS 앱개발 과정 (2023.11 ~ 2024.05 / 진행중)
+    - 기초적인 Swift문법부터 시작해 UIKit, SwiftUI를 비롯해 앱 개발에 있어 전반적인 부분을 배웠습니다.
+      
+- 강원대 컴퓨터정보통신공학 졸업 (~ 2023.02)
     - 자료구조, 알고리즘 등 CS의 전반적인 부분을 배웠습니다.
  
-    
-- 멋쟁이 사자처럼  iOS 앱개발 과정 진행중
-    - 2023.11 ~ 2024.05
-    - 기초적인 Swift문법부터 시작해 UIKit, SwiftUI를 비롯해 앱 개발에 있어 전반적인 부분을 배웠습니다.
 
 ## Project
 - [DWeather](https://github.com/jjw8959/DWeather) (2023.08 ~ 2023.09) : iOS 날씨앱의 예전 버전을 간단히 클론했습니다.
@@ -41,14 +39,9 @@
     - 팀원들과 Git을 이용해 협업했습니다.
 
 ## Skill
-<!--### Language-->
 - Swift : 기본적인 문법을 숙지했고, 현재는 간단한 클론코딩 경험까지 있습니다.
-<!--### UI-->
 - UIKit : 스토리보드와 코드베이스로 화면 구현이 가능합니다.
 - SwiftUI : 현재는 간단한 화면 구현이 가능합니다.
-<!--### Design Pattern-->
 - MVC : MVC패턴을 활용하여 앱을 만들어본 경험이 있습니다.
-<!--### 🛠️ Framework & Library-->
-<!--### ⚙️ ETC-->
 - GitHub : 깃허브 기반으로 개인 프로젝트 경험과 협업 경험이 있습니다.
 - Notion : 협업 툴을 활용하여 의사소통 가능합니다.
