@@ -8,9 +8,9 @@
 <br/>
 
 ## 🛞 Channel
-- 깃허브 : https://github.com/marukim365
+- 깃허브 : [marukim365](https://github.com/marukim365)
 
-- 블로그 : https://maru-study-note.tistory.com/
+- 블로그 : [마루의 공부 노트](https://maru-study-note.tistory.com/)
 
 <br/>
 
